@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Blockchain, AI**
 
-- 💬 Ask me about **Vue, WordPress**
+- 💬 Ask me about **Vue, WordPress, React, Frontend Development**
 
 - 📫 How to reach me **angelikavalerio.dev@gmail.com**
 
