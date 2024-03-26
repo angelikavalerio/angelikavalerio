@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=34&pause=1000&color=4FF735&random=false&width=435&lines=Hi!+I+am+Angelika+Valerio" alt="Typing SVG" /></a>
-<h2 style="margin-top: -25px">A developer specializing in frontend development from the Philippines</h2>
+<p>A developer specializing in frontend development from the Philippines</p>
 
 - 🌱 I’m currently learning **Blockchain, AI**
 
@@ -36,7 +36,7 @@
 
 <h2 align="left">My Github Stats:</h2>
 
-<table style="width:100%; border-collapse: collapse">
+<table>
 <tr>
 <td align="center"><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelikavalerio&show_icons=true&locale=en&layout=compact" alt="angelikavalerio" /></p></td>
 <td align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=angelikavalerio&" alt="angelikavalerio" /></p></td>
