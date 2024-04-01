@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **angelikavalerio.dev@gmail.com**
 
-Check out my <a href="https://github.com/angelikavalerio" target="blank">website</a>!
+Check out my <a href="https://angelikavalerio.github.io/" target="blank">website</a>!
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
